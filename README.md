@@ -1,5 +1,11 @@
 # React Native Segmented Picker
 
+## This Fork
+
+This version of Segmented Picker adds additional items to its toolbar - title text and a cancel button.
+
+------
+
 [![Syntax, Unit & E2E Tests](https://github.com/adammcarth/react-native-segmented-picker/workflows/Syntax%2C%20Unit%20%26%20E2E%20Tests/badge.svg)](https://github.com/adammcarth/react-native-segmented-picker/actions?query=workflow%3A%22Syntax%2C%20Unit%20%26%20E2E%20Tests%22)
 [![NPM Version](https://img.shields.io/npm/v/react-native-segmented-picker.svg?style=flat-square)](https://www.npmjs.com/package/react-native-segmented-picker)
 [![MIT Licence](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)

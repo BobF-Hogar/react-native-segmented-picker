@@ -7,23 +7,32 @@ export default StyleSheet.create({
     height: 42,
     borderBottomWidth: 1,
     flexDirection: 'row',
-    justifyContent: 'flex-end',
+    justifyContent: 'center',
     alignItems: 'center',
     alignSelf: 'flex-start',
   },
 
-  toolbarConfirmContainer: {
+  toolbarItemContainer: {
     height: '100%',
-    paddingLeft: 30,
-    justifyContent: 'center',
+    gap: 30,
+    justifyContent: 'space-between',
+    width: '100%',
   },
 
-  toolbarConfirmText: {
+  toolbarText: {
     fontWeight: 'bold',
     fontSize: 15,
     paddingTop: 0,
-    paddingRight: GUTTER_WIDTH,
-    paddingBottom: TEXT_CORRECTION,
     paddingLeft: 0,
+    paddingBottom: TEXT_CORRECTION,
+    paddingRight: 0,
+  },
+
+  toolbarCancelText: {
+    paddingLeft: GUTTER_WIDTH,
+  },
+
+  toolbarConfirmText: {
+    paddingRight: GUTTER_WIDTH,
   },
 });
