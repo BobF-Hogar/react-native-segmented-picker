@@ -18,11 +18,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adammcarth/react-native-segmented-picker.git"
+    "url": "https://github.com/BobF-Hogar/react-native-segmented-picker.git"
   },
-  "homepage": "https://github.com/adammcarth/react-native-segmented-picker#readme",
+  "homepage": "https://github.com/BobF-Hogar/react-native-segmented-picker#readme",
   "bugs": {
-    "url": "https://github.com/adammcarth/react-native-segmented-picker/issues"
+    "url": "https://github.com/BobF-Hogar/react-native-segmented-picker/issues"
   },
   "keywords": [
     "react-native",
