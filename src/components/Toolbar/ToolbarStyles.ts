@@ -13,6 +13,7 @@ export default StyleSheet.create({
   },
 
   toolbarItemContainer: {
+    flex: 1,
     height: '100%',
     gap: 30,
     justifyContent: 'space-between',
