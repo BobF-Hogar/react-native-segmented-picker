@@ -178,6 +178,9 @@ var styles$1 = StyleSheet.create({
     alignSelf: 'flex-start'
   },
   toolbarItemContainer: {
+    alignItems: 'center',
+    flex: 1,
+    flexDirection: 'row',
     height: '100%',
     gap: 30,
     justifyContent: 'space-between',
